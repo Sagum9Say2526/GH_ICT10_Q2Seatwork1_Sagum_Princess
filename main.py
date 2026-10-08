@@ -14,7 +14,7 @@ nicknames = {
     "timor-leste": "The Land of the Rising Sun",
     "vietnam": "The Land of the Blue Dragon"
 }
-# I'm totally smart ahaha
+
 def nickname(event=None):
     country = document.getElementById("country").value.lower().strip()
 
